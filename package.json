@@ -1,0 +1,21 @@
+{
+  "name": "clase1",
+  "version": "1.0.0",
+  "description": "grr",
+  "homepage": "https://github.com/seleneferoleto/Algo_React_GRUNIEME_COPATI_FEROLETO#readme",
+  "bugs": {
+    "url": "https://github.com/seleneferoleto/Algo_React_GRUNIEME_COPATI_FEROLETO/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seleneferoleto/Algo_React_GRUNIEME_COPATI_FEROLETO.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  }
+}
